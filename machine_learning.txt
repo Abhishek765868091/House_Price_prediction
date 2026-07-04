@@ -1,0 +1,6 @@
+1.Mapping
+2.label encoding
+3.one hot encoding
+4.supervised
+5.unsupervised
+6.reinforcement
